@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94788432159'] // owner number
+global.vcardowner = ['+94763978001'] // owner number
 global.ownername = "Paziya🖤" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94788432159']
-global.ownertag = '+94788432159' //your tag number
+global.owner = ['+94763978001']
+global.ownertag = '+94763978001' //your tag number
 global.botname = 'PAZIYA - BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "BLACK CAT" // sticker author
