@@ -52,7 +52,7 @@ global.ownertag = '+94763978001' //your tag number
 global.botname = 'PAZIYA - BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "BLACK CAT" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '🖇️' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
